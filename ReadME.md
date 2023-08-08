@@ -1,6 +1,12 @@
-# CRUD-with-ASP.NET-core-6-API-and-Angular-14
+# Minimalist Employee Management System with ASP.NET_core_6 & Angular_14
 
-## Here is a sample crud operation with Angular 14 frontend and ASP.NET core web api.
+<br />
+
+### Here is a minimalist employee management system developed using Angular and ASP.NET. This web application enables employees to add their information and perform operations such as editing, updating, and deleting.
+
+<br />
+
+## Here is a sample screenshots,
 
 
 
